@@ -3,3 +3,6 @@ Started on [micrograd video](https://www.youtube.com/watch?v=VMj-3S1tku0&t=146s)
 
 ### July 31, 2025
 Added graphing, gradients, labels, operations, and children to our Value object. Now doing manual back propogation. Got to timestamp ~51 in micrograd video.
+
+### August 1, 2025
+More micrograd. Added functions for doing a backward pass.
